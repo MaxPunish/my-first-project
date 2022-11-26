@@ -5,8 +5,8 @@
 
     int main()
     {
-        std::cout << minimumas(5, 9)<<" | " << maximumas(5, 9);
-        //std::cin.get();
+        cout << minimumas(5, 9)<<" | " << maximumas(5, 9);
+        //cin.get();
         system("pause");
     }
 
